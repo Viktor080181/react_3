@@ -12,13 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  
-  "homepage": "https://github.com/Viktor080181/react_3",
-
-    
-  
-
-
+  "homepage": "https://viktor080181.github.io/react_3/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
