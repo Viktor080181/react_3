@@ -11,7 +11,7 @@ class Hello extends React.Component {
     }
     changeText = () => {
         this.setState({ text: this.state.text === "Hello" ? "Привет" : "Hello" });
-        this.satState({sign:this.state.sign==="Rus" ? "Eng" : "Rus"})
+        this.satState({sign:this.state.sign==="Rus" ? "Eng" : "Rus"});
     }
     render() {
         return (
